@@ -4,8 +4,11 @@ import './index.css';
 
 function InputField() {
     return (
-        <input id="input-section" type="text"></input>
-    )
+        <div>
+            <p id="text-area">Nome da atividade</p>
+            <input id="input-section" type="text"></input>
+        </div>
+    );
 }
 
 export default InputField;

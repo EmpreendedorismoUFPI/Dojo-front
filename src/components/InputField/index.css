@@ -4,6 +4,16 @@
 }
 
 #input-section {
-    width: 100vw;
-    height: 15vh;   
+    width: 100%;
+    /*
+    padding: 20px 30px; 
+    padding-top: ;
+    padding-bottom: ;
+    */
+}
+
+#text-area {
+    border-radius: 5px;
+    background-color: #fbc531;
+    color: #000000;
 }
